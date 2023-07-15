@@ -8,4 +8,6 @@
 # 联系方式
 暂无
 # 交流频道
-暂无
+<p align="center">
+<a href="https://discord.gg/BptQWR63"><img src="https://img.shields.io/badge/Discord-1%20Online-4682B4"></a>
+</p>
